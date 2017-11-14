@@ -1,34 +1,16 @@
 h1 {
-    font-weight: normal;
+  margin-top: 0;
 }
 
-li {
-    font-size: 18px;
-    margin: 10px 0;
+.game-info {
+  margin-top: 20px;
+  font-size: 30px;
 }
 
-#score, #info {
-    text-align: center;
-    font-size: 30px;
-    margin: 5px 0;
+.game-info span:first-child {
+  padding-right: 20px;
 }
 
-#container{
-    margin: 0 auto;
-    width: 900px;
-}
-
-#gametext {
-    width: 420px;
-    float: right;
-    position: relative;
-    top: 200px;
-}
-
-#gamearea {
-    background: rgb(177, 244, 221);
-}
-
-h2 {
-    clear: right;
+.panel-info {
+  margin-top: 40px;
 }
