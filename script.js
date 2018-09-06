@@ -9,7 +9,7 @@
   const WHITE =  0;
   const OPPOSITE = [BLACK, WHITE];
   const EMPTY = Symbol();
-  const CELL_NUM = 8;
+  const CELL_NUM = 6;
   const ABBUNDANCE_RATIO = 1.2;
   const CELL_PIXEL = 480 / 8;
   const BOARD_PIXEL = CELL_PIXEL * CELL_NUM;
